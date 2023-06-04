@@ -1,8 +1,8 @@
 # Projeto Front-end - Mercado Livre
 
-Projeto em grupo
-
 Este projeto é um front-end para uma plataforma de compras baseada na API do Mercado Livre. Ele permite aos usuários buscar, listar e comprar produtos, além de fornecer recursos adicionais como filtragem por categoria, visualização detalhada do produto, adição ao carrinho de compras e avaliações.
+
+(Projeto realizado em grupo)
 
 ## Funcionalidades
 
