@@ -34,12 +34,10 @@ A seguir estão listadas as principais funcionalidades implementadas no projeto:
 
 O projeto Trybe Futebol Clube foi desenvolvido utilizando as seguintes tecnologias:
 
-- TypeScript
-- Node.js
-- Express.js
-- Sequelize
-- Docker
-- Javascript
+- React
+- JavaScript
+- HTML
+- CSS
 
 ## Autores
 
