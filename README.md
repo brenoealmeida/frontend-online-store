@@ -1,5 +1,7 @@
 # Projeto Front-end - Mercado Livre
 
+Projeto em grupo
+
 Este projeto é um front-end para uma plataforma de compras baseada na API do Mercado Livre. Ele permite aos usuários buscar, listar e comprar produtos, além de fornecer recursos adicionais como filtragem por categoria, visualização detalhada do produto, adição ao carrinho de compras e avaliações.
 
 ## Funcionalidades
@@ -27,3 +29,19 @@ A seguir estão listadas as principais funcionalidades implementadas no projeto:
 10. **Visualização e manipulação da lista de produtos no carrinho:** A página do carrinho de compras exibe a lista de produtos adicionados, permitindo aos usuários aumentar, diminuir ou excluir produtos. Os produtos adicionados são armazenados no *local storage* e são renderizados ao entrar na página.
 
 11. **Avaliação e comentário de um produto:** Na página de detalhes de um produto, os usuários podem adicionar avaliações sobre o produto. O formulário de avaliação inclui campos para e-mail, nota (entre 1 e 5) e comentários. O e-mail e a nota são obrigatórios, e o e-mail deve ser válido. As avaliações
+
+## Tecnologias utilizadas
+
+O projeto Trybe Futebol Clube foi desenvolvido utilizando as seguintes tecnologias:
+
+- TypeScript
+- Node.js
+- Express.js
+- Sequelize
+- Docker
+- Javascript
+
+## Autores
+
+Este projeto foi desenvolvido em grupo como parte do curso de Desenvolvimento Web da Trybe
+[Breno Almeida](https://github.com/brenoealmeida)
